@@ -70,7 +70,7 @@ Le site est construit à partir d’un site informatif existant : Le Monde.
 
 La charte graphique du site Le Monde sera donc à respecter.
 
-
+Le site est inspiré du site informatif Le Monde.
 
 Arborescence et architecture du site :
 	Accueil
