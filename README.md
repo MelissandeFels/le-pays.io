@@ -2,7 +2,7 @@
 Site informatif Le Pays
 
 
-CAHIER DES CHARGES
+<h1>CAHIER DES CHARGES</h1>
 Creation de site 
 pour le journal “Le Pays”
 
