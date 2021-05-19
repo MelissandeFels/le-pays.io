@@ -112,5 +112,5 @@ Le texte est libre de création.
 C. 2. CONTRAINTES TECHNIQUES :
 
 Les attentes concernant les besoins connexes à ce projet sont :
- •	Déployer le site sur un serveur Web.
- •	Solutions utilisées avec le site internet : Bootstrap, HTML (Wordpress), possiblement PHP. 
+ -	Déployer le site sur un serveur Web.
+ -	Solutions utilisées avec le site internet : Bootstrap, HTML (Wordpress), possiblement PHP. 
