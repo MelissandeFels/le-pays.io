@@ -9,17 +9,17 @@ pour le journal “Le Pays”
 
 SOMMAIRE
 
-A. Présentation de l’entreprise 
-A. 1. Les objectifs du site
-A. 2. Les cibles
-A. 3. Les objectifs quantitatifs
-A. 4. périmètre du projet
-B. Graphisme et ergonomie
-B. 1. La charte graphique
-B. 2. Wireframe et maquettage
-C. spécificités et livrables
-C. 1. le contenu de votre site wordpress
-C. 2. Contraintes techniques
+- A. Présentation de l’entreprise 
+- A. 1. Les objectifs du site
+- A. 2. Les cibles
+- A. 3. Les objectifs quantitatifs
+- A. 4. périmètre du projet
+- B. Graphisme et ergonomie
+- B. 1. La charte graphique
+- B. 2. Wireframe et maquettage
+- C. spécificités et livrables
+- C. 1. le contenu de votre site wordpress
+- C. 2. Contraintes techniques
 
 
 A. PRESENTATION DE L’ENTREPRISE :
@@ -30,6 +30,7 @@ Analyse du besoin :
 L’entreprise souhaite se moderniser et créer un site internet pour relayer les informations de sa version papier. Le directeur est très attaché au papier et au confort de lecture que peut fournir ce support. Il souhaite donc que le site soit simple d’utilisation et aussi agréable à la lecture que sa version papier.
 Monsieur Do souhaite conserver le rôle premier du site qui est d’informer et de présenter les informations de manière chronologique pour prioriser la une des informations du jour.
 Enfin, monsieur Do souhaite rendre ce site internet accessible sur mobile, car il veut atteindre des lecteurs plus jeunes et familiarisés avec la technologie.
+
 A. 1. LES OBJECTIFS DU SITE :
 
 Le site a pour but d’informer la population sur l’actualité locale et sportive du pays. Le site est donc, un site informatif. Le journal souhaite dématérialiser le support papier. 
@@ -73,27 +74,25 @@ La charte graphique du site Le Monde sera donc à respecter.
 Le site est inspiré du site informatif Le Monde.
 
 Arborescence et architecture du site :
-	Accueil
-o	 A la Une 
-	Se connecter
-•	Page Connectez-vous (se connecter, formulaire à compléter si c’est un nouveau lecteur ou activer le compte si le lecteur est déjà abonné à la version papier du journal)
-	La Une !
-•	Publications des articles
-o	Page d’affichage de l’article
-	Actualités
-•	Publications des articles
-o	Page d’affichage de l’article
-	A venir
-•	Publications des articles
-o	Page d’affichage de l’article
+-	Accueil
+  -	 A la Une 
+    -	Se connecter
+        •	Page Connectez-vous (se connecter, formulaire à compléter si c’est un nouveau lecteur ou activer le compte si le lecteur est déjà abonné à la version papier du journal)
+    -	La Une !
+      •	Publications des articles
+     -	Page d’affichage de l’article
+-	A ne SURTOUT pas manquer !
+    •	Publications des articles
+    -	Page d’affichage de l’article
 -	Que du sport (actualités sportives)
-o	Tout le sport, pour vous !
-•	Publications des articles
-o	Page d’affichage de l’article
+      -	Tout le sport, pour vous !
+            •	Publications des articles
+            -	Page d’affichage de l’article
 -	Culturellement, votre Région (actualités culturelles)
-o	La culture chez vous !
-•	Publications des articles
-o	Page d’affichage de l’article
+      -	La culture chez vous !
+            •	Publications des articles
+            -	Page d’affichage de l’article
+
 C. SPECIFICITES :
 
 C. 1. LE CONTENU DE VOTRE SITE WORDPRESS :
@@ -113,5 +112,5 @@ Le texte est libre de création.
 C. 2. CONTRAINTES TECHNIQUES :
 
 Les attentes concernant les besoins connexes à ce projet sont :
-•	Déployer le site sur un serveur Web.
-•	Solutions utilisées avec le site internet : Bootstrap, HTML (Wordpress), possiblement PHP. 
+- •	Déployer le site sur un serveur Web.
+- •	Solutions utilisées avec le site internet : Bootstrap, HTML (Wordpress), possiblement PHP. 
