@@ -95,7 +95,7 @@ Arborescence et architecture du site :
 
 C. SPECIFICITES :
 
-C. 1. LE CONTENU DE VOTRE SITE WORDPRESS :
+C. 1. LE CONTENU DU SITE WORDPRESS :
 
 Le site doit reprendre le logo, l’entête et le pied de page (comme cité précédemment). Le contenu du site doit correspondre à celui du journal « Le Pays ». Le menu du site est composé des pages suivantes :
 -	La page « A la Une ! » liste les dernières actualités de la région, du pays et du monde (en gros titre de la Une). 
