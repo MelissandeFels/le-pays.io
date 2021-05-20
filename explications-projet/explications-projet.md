@@ -27,4 +27,7 @@ La contrainte des 24h cumulés a été complexe pareillement.
 L'objectif étant de répondre au cahier des charges ainsi que les contraintes techniques imposés par le formateur référant, ne fut pas complètement atteint dans sa totalité.
 Je ressors stressé et insatisfaite mais, tout de même, consciente de la difficulté qu'il peut y avoir lors de l'aboutissement et la compréhension d'un projet à mettre en prodution après 24h cumulés.
 
+Procédure à suivre pour installer le projet sur une machine locale :
+...
+
 Merci d'avoir pris le temps de lire ces remarques.
