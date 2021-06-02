@@ -16,7 +16,8 @@ Dans ce projet, il y a quelques informations manquantes : <br>
 - la page 404 : la page 404 est en court de réalisation. <br>
 - la page et bouton de connexion/abonnement au site du journal Le Pays : le page de connexion/abonnement ainsi que le bouton "Se connecter" n'ont pas été créés. Ils sont en cours de réalisation. <br>
 - le pied de page (footer) du site : ce qui a été ajouté pour le footer est basique mais n'a pas été développé. Le pied de page est en cours de réalisation. <br>
-Il y a quelques éléments "importants" qui manque dans ce projet. Dû au manque de temps et de la maîtrise minimale de l'outil Wordpress, je n'ai pas complètement aboutit à la mise en prodution totale du projet Le Pays.
+Il y a quelques éléments "importants" qui manque dans ce projet. Dû au manque de temps et de la maîtrise minimale de l'outil Wordpress, je n'ai pas complètement aboutit à la mise en prodution totale du projet Le Pays.<br>
+Le site n'est pas complètement responsive. Les diverses actions citées, ci-dessus, sont en cours.
 
 <h3>Ce qui a été ajouté dans ce projet ?</h3>
 Il y a éventuellement, des informations qui ont été ajoutés : <br>
