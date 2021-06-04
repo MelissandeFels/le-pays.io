@@ -1,7 +1,7 @@
 <h2>Explications du projet Le Pays :</h2>
 
 <h3>Quels outils ont été utilisés ?</h3>
-Les outils qui ont été utilisé sont principalement, Wordpress, Visual Studio (éditeur de code), Bootstrap (librairie Javascript) ainsi que PHP (langage de programmation).<br>
+Les outils qui ont été utilisé sont principalement, Wordpress, Visual Studio (éditeur de code), Bootstrap (librairie Javascript), PHP (langage de programmation), PhpMyAdmin (base de données) et Xampp (environnement de développement PHP).<br>
 Les plugins Wordpress on également, été utilisé pour la génération de contenu et l'ajout d'évènements :<br>
 - l'outil Fakerpress pour le contenu <br>
 - l'outil Event Calendar pour la gestion et création d'évènements du site <br>
