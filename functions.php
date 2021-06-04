@@ -60,3 +60,19 @@ function lc_create_post_type() {
     );
 }
 add_action( 'init', 'lc_create_post_type' );
+
+// create widget area
+register_sidebar( array(
+    'name' => __( 'In Header Widget Area', 'rmccollin' ),
+    'id' => 'in-header-widget-area',
+    'description' => __( 'A widget area located to the right hand side of the header, next to the site title and description.', 'rmccollin' ),
+    'before_widget' => '<div id="%1$s" class="widget-container %2$s">',
+    'after_widget' => '</div>',
+    'before_title' => '<h3 class="widget-title">',
+    'after_title' => '</h3>',
+   ) );
+
+// get icons on Dashicons website
+function my_theme_styles() {
+    wp_enqueue_style( 'dashicons' );
+}

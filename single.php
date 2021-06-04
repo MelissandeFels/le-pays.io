@@ -4,7 +4,7 @@
 */
 ?>
 <?php get_header(); ?>
-<div class="container">
+<div class="container mb-3">
   <?php if( have_posts() ) : while( have_posts() ) : the_post(); ?>
 
   <article class="post p-3">

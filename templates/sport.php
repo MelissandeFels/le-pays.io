@@ -5,7 +5,7 @@
  */
 ?>
 <?php get_header(); ?>
-<div class="container p-3">
+<div class="container p-3 mb-3">
     <h2>Tout le sport, pour vous !</h2>
     <?php $args = array(
 		'category_name' => 'sport',

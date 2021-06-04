@@ -20,10 +20,17 @@
     <?php wp_body_open(); ?>
 
     <header class="header">
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end pt-3">
+            <button class="btn btn-success me-md-2" type="button" style="font-family:'Source Serif Pro';font-size:18px;">
+                <a href="<?php echo include( get_template_directory_uri() . '/connect.php' ); ?>" style="color:white;">
+                    Se connecter
+                </a>
+            </button>
+        </div>
         <div class="col-12 mt-5">
             <a href="<?php echo home_url( '/' ); ?>">
                 <img class="d-block mx-auto" src="<?php echo get_template_directory_uri(); ?>/img/logo.jpg"
-                    alt="Logo Le Pays" style="width:15rem;">
+                    alt="Logo Le Pays" style="width:20rem;">
             </a>
         </div>
         <hr class="style1">
@@ -42,3 +49,11 @@
             </div>
         </nav>
     </header>
+
+    <?php if ( is_active_sidebar( 'in-header-widget-area' ) ) { ?>
+
+    <aside class="in-header widget-area right" role="complementary">
+        <?php dynamic_sidebar( 'in-header-widget-area' ); ?>
+    </aside>
+
+    <?php }
