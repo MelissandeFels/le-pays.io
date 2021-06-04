@@ -15,7 +15,7 @@ Je me suis inspiré du site informatif Le Monde afin de réaliser celui-ci.
 Dans ce projet, il y a quelques informations manquantes : <br>
 - la page 404 : la page 404 est en court de réalisation. <br>
 - la page et bouton de connexion/abonnement au site du journal Le Pays : le page de connexion/abonnement n'a pas été créée. Le bouton 'Se connecter' est vide. Ils sont en cours de réalisation. <br>
-- les icons : ils ne sont pas visibles lors du déploiement du site sur le serveur SSH mais, ils sont visibles lors de la connexion à Wordpress (problème à résoudre).
+- les icons : ils ne sont pas visibles lors du déploiement du site sur le serveur SSH mais, ils sont visibles lors de la connexion à Wordpress (problème à résoudre).<br>
 Il y a quelques éléments "importants" qui manque dans ce projet. Dû au manque de temps et de la maîtrise minimale de l'outil Wordpress, je n'ai pas complètement aboutit à la mise en prodution totale du projet Le Pays.<br>
 Le site n'est pas complètement responsive. Les diverses actions citées, ci-dessus, sont en cours.
 
