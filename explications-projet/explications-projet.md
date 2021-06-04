@@ -31,6 +31,7 @@ L'objectif étant de répondre au cahier des charges ainsi que les contraintes t
 Je ressors stressé et insatisfaite mais, tout de même, consciente de la difficulté qu'il peut y avoir lors de l'aboutissement et la compréhension d'un projet à mettre en prodution après 24h cumulés.
 
 <h3>Procédure à suivre pour installer le projet sur une machine locale :</h3>
-...
+Afin d'installer le projet sur une mmachine locale, l'utilisateur à la possibilité de le cloner en effectuant un 'git clone {$urlDuProjet}' sur Github avec l'outil de versionning Git ou simplement, via la plateforme Github. L'utilisateur à la possibilité de reproduire sa base de données et gérer son propre contenu sur Wordpress avec ce projet car il est uniquement constitué de modèles de pages permettant de faciliter la mise en forme d'un site informatif. Attention, il est uniquement utile pour un site informatif (Le Monde par exemple). <br> Dès que l'utilisateur a récupéré le projet, il devra le déplacer dans le dossier Wordpress (pré-installé en amont sur la machine locale) dans le dossier 'themes' (chemin a effectué : wordpress/wp-content/themes). Ce projet est défini comme étant un thème. Xampp sera utilisé afin de permettre le déploiement en local du site. <br>
+A partir du back office Wordpress, l'utilisateur pourra gérer son contenu. 
 
 Merci d'avoir pris le temps de lire ces remarques.
