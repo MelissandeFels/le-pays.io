@@ -24,9 +24,9 @@ SOMMAIRE
 
 A. PRESENTATION DE L’ENTREPRISE :
 
-Présentation de l’entreprise :
-Le journal local “Le Pays” a pour réputation de relayer les activités sportives et culturelles du pays. Son directeur est Monsieur Do.
-Analyse du besoin :
+Présentation de l’entreprise :<br>
+Le journal local “Le Pays” a pour réputation de relayer les activités sportives et culturelles du pays. Son directeur est Monsieur Do.<br>
+Analyse du besoin :<br>
 L’entreprise souhaite se moderniser et créer un site internet pour relayer les informations de sa version papier. Le directeur est très attaché au papier et au confort de lecture que peut fournir ce support. Il souhaite donc que le site soit simple d’utilisation et aussi agréable à la lecture que sa version papier.
 Monsieur Do souhaite conserver le rôle premier du site qui est d’informer et de présenter les informations de manière chronologique pour prioriser la une des informations du jour.
 Enfin, monsieur Do souhaite rendre ce site internet accessible sur mobile, car il veut atteindre des lecteurs plus jeunes et familiarisés avec la technologie.
