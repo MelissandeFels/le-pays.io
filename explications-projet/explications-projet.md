@@ -3,7 +3,7 @@
 <h3>Quels outils ont été utilisés ?</h3>
 Les outils qui ont été utilisé sont principalement, Wordpress, Visual Studio (éditeur de code), Bootstrap (librairie Javascript), PHP (langage de programmation), PhpMyAdmin (base de données) et Xampp (environnement de développement PHP).<br>
 Les plugins Wordpress on également, été utilisé pour la génération de contenu et l'ajout d'évènements :<br>
-- l'outil Fakerpress pour le contenu <br>
+- l'outil Insert Headers and Footers pour la création de l'entête et le pied de page <br>
 - l'outil Event Calendar pour la gestion et création d'évènements du site <br>
 - l'outil Ithemes Security pour la sécurité du site <br>
 - l'outil Wordfence Security, un anti-virus <br>
@@ -14,8 +14,7 @@ Je me suis inspiré du site informatif Le Monde afin de réaliser celui-ci.
 <h3>Ce qui manque dans ce projet ?</h3>
 Dans ce projet, il y a quelques informations manquantes : <br>
 - la page 404 : la page 404 est en court de réalisation. <br>
-- la page et bouton de connexion/abonnement au site du journal Le Pays : le page de connexion/abonnement ainsi que le bouton "Se connecter" n'ont pas été créés. Ils sont en cours de réalisation. <br>
-- le pied de page (footer) du site : ce qui a été ajouté pour le footer est basique mais n'a pas été développé. Le pied de page est en cours de réalisation. <br>
+- la page et bouton de connexion/abonnement au site du journal Le Pays : le page de connexion/abonnement n'a pas été créée. Le bouton 'Se connecter' est vide. Ils sont en cours de réalisation. <br>
 Il y a quelques éléments "importants" qui manque dans ce projet. Dû au manque de temps et de la maîtrise minimale de l'outil Wordpress, je n'ai pas complètement aboutit à la mise en prodution totale du projet Le Pays.<br>
 Le site n'est pas complètement responsive. Les diverses actions citées, ci-dessus, sont en cours.
 
