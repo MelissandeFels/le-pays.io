@@ -18,7 +18,7 @@ SOMMAIRE
 - B. 1. La charte graphique
 - B. 2. Wireframe et maquettage
 - C. spécificités et livrables
-- C. 1. le contenu de votre site wordpress
+- C. 1. le contenu du site wordpress
 - C. 2. Contraintes techniques
 
 
